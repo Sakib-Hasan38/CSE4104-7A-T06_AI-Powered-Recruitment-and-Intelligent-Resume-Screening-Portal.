@@ -7,5 +7,5 @@
 * 📑 [SRS Document](./docs/CSE4104-7A-T06_SRS.pdf)
 * 📊 [Use Case Diagram](./diagram/CSE4104-7A-T06_UseCaseDiagram.pdf)
 * 🗂️ [ER Diagram](./diagram/CSE4104-7A-T06_ERDiagram.pdf)
-* 🏗️ [Architecture Diagram](./diagram/CSE4104-7A-T06_Architecture_Diagram.pdf)
+* 🏗️ [Architecture Diagram](./diagram/CSE4104-7A-T06_Architecture_Diagram .pdf)
 
